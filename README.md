@@ -17,3 +17,7 @@ This introdcution is orginazed by the software or public code provided by differ
 
 ## Application
 
+### Image Retrieval
+
+### Place Recognition
+
