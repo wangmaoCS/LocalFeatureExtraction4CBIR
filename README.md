@@ -9,6 +9,7 @@ This introdcution is orginazed by the software or public code provided by differ
 
 ### VGG
 code: http://www.robots.ox.ac.uk/~vgg/research/affine/detectors.html#binaries
+
 This software consists of two steps, the keypoints detectors and SIFT feature extraction. The first step provides more opitions for key-point detection, such as the low threshold of cornerness. The low threshold can extract more keypoints which is usefull for place recognition application. 
 
 ### VLFeat
