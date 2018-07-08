@@ -35,4 +35,11 @@ This code is provided with the CVPR2009 paper, which is latter popularly used in
 
 ### Place Recognition
 
+## Related Paper
 
+    @Inproceedings{Arandjelovic14a,
+        author       = "Arandjelovi\'c, R. and Zisserman, A.",
+        title        = "{DisLocation}: {Scalable} descriptor distinctiveness for location recognition",
+        booktitle    = "Asian Conference on Computer Vision",
+        year         = "2014",
+    }
