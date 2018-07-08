@@ -12,13 +12,21 @@ code: http://www.robots.ox.ac.uk/~vgg/research/affine/detectors.html#binaries
 
 This software consists of two steps, the keypoints detectors and SIFT feature extraction. The first step provides more opitions for key-point detection, such as the low threshold of cornerness. The low threshold can extract more keypoints which is usefull for place recognition application. 
 
-### VLFeat
+### VLFeat Toolbox
+
+code: 
+
+The VLFeat is an open-source toolbox for computer vision. The VLfeat toolbox is used in Torri's CVPR paper.
 
 ### INRIA
 code: http://lear.inrialpes.fr/~jegou/data.php
 
+This code is released with the famous public dataset Holidays and Flickr1M [1]. 
+
 ### CMP
-code: http://cmp.felk.cvut.cz/~perdom1/code/index.html (Github : )
+code: http://cmp.felk.cvut.cz/~perdom1/code/index.html (Github homepage: )
+
+This code is provided with the CVPR2009 paper, which is latter popularly used in extracting local features in landmark images, such as Oxfrod and Paris dataset.
 
 ## Application
 
