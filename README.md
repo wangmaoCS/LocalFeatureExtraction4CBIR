@@ -26,11 +26,13 @@ This code is released with the famous public dataset Holidays and Flickr1M [1].
 ### CMP
 code: http://cmp.felk.cvut.cz/~perdom1/code/index.html (Github homepage: )
 
-This code is provided with the CVPR2009 paper, which is latter popularly used in extracting local features in landmark images, such as Oxfrod and Paris dataset.
+This code is provided with the CVPR2009 paper, which is latter popularly used in extracting local features in landmark images, such as the Oxford and Paris dataset. This software is suit for upright buildings to extract local features
 
 ## Application
 
 ### Image Retrieval
 
+
 ### Place Recognition
+
 
