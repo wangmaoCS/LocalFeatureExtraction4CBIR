@@ -14,7 +14,7 @@ This software consists of two steps, the keypoints detectors and SIFT feature ex
 
 ### VLFeat Toolbox
 
-code: 
+code: http://www.vlfeat.org/
 
 The VLFeat is an open-source toolbox for computer vision. The VLfeat toolbox is used in Torri's CVPR paper.
 
@@ -24,7 +24,7 @@ code: http://lear.inrialpes.fr/~jegou/data.php
 This code is released with the famous public dataset Holidays and Flickr1M [1]. 
 
 ### CMP
-code: http://cmp.felk.cvut.cz/~perdom1/code/index.html (Github homepage: )
+code: http://cmp.felk.cvut.cz/~perdom1/code/index.html (Github homepage: https://github.com/perdoch/hesaff)
 
 This code is provided with the CVPR2009 paper, which is latter popularly used in extracting local features in landmark images, such as the Oxford and Paris dataset. This software is suit for upright buildings to extract local features
 
