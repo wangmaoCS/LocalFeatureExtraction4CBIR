@@ -21,7 +21,7 @@ The VLFeat is an open-source toolbox for computer vision. The VLfeat toolbox is 
 ### INRIA
 code: http://lear.inrialpes.fr/~jegou/data.php
 
-This code is released with the famous public dataset Holidays and Flickr1M [1]. 
+This code is released with the famous public dataset Holidays and Flickr1M [1]. However, the url for Flickr1M is out of using. This software typically is used for the Holidays dataset.
 
 ### CMP
 code: http://cmp.felk.cvut.cz/~perdom1/code/index.html (Github homepage: https://github.com/perdoch/hesaff)
